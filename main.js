@@ -6,7 +6,6 @@ var userName = prompt("Welcome to GC mini golf! What is your name?");
 // Prompt the user for how many holes (save for later)
 var numberofholes = prompt("Hello " + userName + " would you like to play 3 or 6 holes?");
 
- 
 // Ask how many putts for each hole
 
 var numberofholes2 = prompt("How many putts for hole 1? (par is 3");
